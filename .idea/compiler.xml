@@ -33,6 +33,6 @@
         <module name="bd-immutability-and-final-photo-filters.main" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="16" />
+    <bytecodeTargetLevel target="11" />
   </component>
 </project>

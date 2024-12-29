@@ -20,3 +20,5 @@ public enum ConversionType {
         return name;
     }
 }
+//esta clase define los tipos de conversiones posibles para las fotos primas
+//Esta clase es final, lo que significa que no puede ser extendida en nuevas clases
